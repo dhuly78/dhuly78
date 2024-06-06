@@ -10,7 +10,7 @@ Voce pode entrar em contato comigo 📪
 
 00001095337713sp@al.educacao.sp.gov.br
 
-@JUGODOYYC
+@jugodoyyc
 
 ![](https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif)
 
