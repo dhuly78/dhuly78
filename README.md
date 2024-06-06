@@ -1,17 +1,16 @@
 ### Boas vindas ao meu perfil 
 
-Meu nome é dhuly 💟
+Meu nome é dhuly 🐱
 
--Estou estudando na Alura
--Estou me desenvolvendo na linguagem JavaScript
--utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
 Voce pode entrar em contato comigo 📪
 
 00001095337713sp@al.educacao.sp.gov.br
 
+@JUGODOYYC
 
+![](https://media1.tenor.com/m/JWJRjZFUa_cAAAAC/one-piece-anime.gif)
 
-![
-
-https://tenor.com/pUzHQIqsXVW.gif
